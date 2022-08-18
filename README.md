@@ -1,6 +1,6 @@
 # get_data_api
 
-A new Flutter project.
+A simple flutter app using MVVM with Provider
 
 ## Getting Started
 
